@@ -9,4 +9,7 @@ It is Ease of Use and it helps in Rapid Prototyping, Easy Customization, Creatin
 Some other alternative of streamlit are Gradio, Dash by Plotly, Bokeh, Flask/Django with JavaScript Libraries, etc.
 
 Streamlit supports rendering HTML elements using the <pre>st.markdown()</pre> function. This enables you to enhance your Streamlit app's design, style, and structure beyond the default functionality. As we know that while using HTML and CSS in Streamlit can offer more customization, it also require some understanding of web development concepts.
+
+---
+
 In conclusion, with the basic Streamlit functionality, allow you to create comprehensive and interactive web applications for data science, machine learning, and data visualization purposes. As Streamlit continues to evolve, more features and enhancements may become available.
